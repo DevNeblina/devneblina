@@ -3,7 +3,7 @@
 
 ##### Sou apaixonado por tecnologia desde pequeno, atualmente estou graduando análise e desenvolvimento de sistemas.
 
-#### Socias:
+#### Sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroalmir/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/html.leandro/)
 
