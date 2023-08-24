@@ -9,7 +9,7 @@
 
 ![Neblina GitHub stats](https://github-readme-stats.vercel.app/api?username=devneblina&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devneblina&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devneblina&layout=compact&theme=dracula)
 
 #### Tecnologias que estou aprendendo:
 <div style="display: inline_block" ><br/>
